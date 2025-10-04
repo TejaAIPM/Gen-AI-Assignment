@@ -1,6 +1,6 @@
 # Demo of Conversational Access System  
 
-This file contains screenshots and short notes showing how the system works — from indexing documents to answering queries.
+This file contains screenshots and short notes showing how the system works from indexing documents to answering queries.
 
 ## Step 1: Indexing the Documents  
 
